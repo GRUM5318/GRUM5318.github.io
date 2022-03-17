@@ -6,13 +6,87 @@
         <description>Recent content in 面经 on Grum&#39;s BLOG</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://GRUM5318.github.io/categories/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://GRUM5318.github.io/categories/%E9%9D%A2%E7%BB%8F/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>京东面试过程</title>
+        <link>https://GRUM5318.github.io/p/test-chinese/</link>
+        <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://GRUM5318.github.io/p/test-chinese/</guid>
+        <description>&lt;img src="https://GRUM5318.github.io/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 京东面试过程" /&gt;&lt;h2 id=&#34;tp-link&#34;&gt;Tp-link&lt;/h2&gt;
+&lt;h3 id=&#34;20220301-一面&#34;&gt;2022/03/01 一面：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;问：用什么语言&lt;/p&gt;
+&lt;p&gt;答：python&lt;/p&gt;
+&lt;p&gt;问：说说python中的列表、字典、元组&lt;/p&gt;
+&lt;p&gt;答：巴拉巴拉说一下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：学过sql吗，说一下左连接、内连接&lt;/p&gt;
+&lt;p&gt;答：巴拉巴拉&lt;/p&gt;
+&lt;p&gt;然后出了一道增删改查&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：链表和数组的区别？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：聊简历&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：如何测试现在正在使用的视频会议软件？&lt;/p&gt;
+&lt;p&gt;答：（从登录界面到结束会议根据场景设计测试用例，注意结合你所知道的测试方法）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：说说黑盒测试和白盒测试？&lt;/p&gt;
+&lt;p&gt;答：说一下黑盒和白盒的方法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：自己用过什么测试工具？&lt;/p&gt;
+&lt;p&gt;答：pytest和selenium&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;反问环节：问是京东的哪个部门？（京东保险）主要使用什么语言？（JAVA）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;20220304-二面&#34;&gt;2022/03/04 二面：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;问：自己有什么测试经历？&lt;/p&gt;
+&lt;p&gt;答：pytest和selenium&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;聊简历上的项目&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：我们平时主要用的JAVA，看你简历主要用python，你觉得可以吗？&lt;/p&gt;
+&lt;p&gt;答：赶紧说自己也学过JAVA，都是面向对象编程，大体上一致没什么问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;问：说说你自己接触过的最大的开源项目？
+答：深度学习A3C算法巴拉巴拉说一下&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;反问环节：JD都在使用什么测试软件？（自研的，肯定基于开源项目）加班情况？&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;20220311-三面&#34;&gt;2022/03/11 三面：&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;我们主要用JAVA，你用python，会JAVA吗？&lt;/li&gt;
+&lt;li&gt;测试开发需要善于与别人交流，证明一下你很善于和别人交流？
+答：我是生活委员巴拉巴拉&lt;/li&gt;
+&lt;li&gt;遇到的最大的困难是什么？怎么解决的？
+答：用大创举例子说过去了
+4.反问：工作作息？京东保险是什么部门，我没听说过？（新部门，刚成立）您在这个部门是什么角色？（研发负责人，不是技术出身）您为什么不去京东零售等核心部门反而来这个部门？(就是从核心部门主  动来这个新部门的，来这能干更多的事)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
         <title>Tp-link面试过程</title>
         <link>https://GRUM5318.github.io/p/test-chinese/</link>
         <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
         
         <guid>https://GRUM5318.github.io/p/test-chinese/</guid>
-        <description>&lt;img src="https://GRUM5318.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Tp-link面试过程" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试&lt;/h2&gt;
+        <description>&lt;img src="https://GRUM5318.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Tp-link面试过程" /&gt;&lt;h2 id=&#34;tp-link&#34;&gt;Tp-link&lt;/h2&gt;
 &lt;p&gt;2022/03/08 一面：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -89,8 +163,10 @@
 答：LRU算法，巴拉巴拉&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;问：有什么其他offer？
-10.加班情况、什么时候有下一次消息，怎么不去互联网，如何看待互联网寒冬&lt;/p&gt;
+&lt;p&gt;问：有什么其他offer？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;加班情况、什么时候有下一次消息，怎么不去互联网，如何看待互联网寒冬&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片&lt;/h2&gt;
@@ -107,60 +183,8 @@
 		data-flex-grow=&#34;66&#34;
 		data-flex-basis=&#34;160px&#34;
 	
-&gt;  &lt;img src=&#34;https://GRUM5318.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;667&#34;
-	srcset=&#34;https://GRUM5318.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, https://GRUM5318.github.io/p/test-chinese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Luca Bravo on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;149&#34;
-		data-flex-basis=&#34;359px&#34;
-	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://GRUM5318.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
-	width=&#34;1000&#34;
-	height=&#34;750&#34;
-	srcset=&#34;https://GRUM5318.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_480x0_resize_q75_box.jpg 480w, https://GRUM5318.github.io/p/test-chinese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;133&#34;
-		data-flex-basis=&#34;320px&#34;
-	
-&gt;  &lt;img src=&#34;https://GRUM5318.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
-	width=&#34;667&#34;
-	height=&#34;1000&#34;
-	srcset=&#34;https://GRUM5318.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_480x0_resize_q75_box.jpg 480w, https://GRUM5318.github.io/p/test-chinese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Photo by Hudai Gayiran on Unsplash&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;66&#34;
-		data-flex-basis=&#34;160px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Florian Klauer on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Luca Bravo on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span&gt;) 
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![&lt;span class=&#34;nt&#34;&gt;Photo by Helena Hertz on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span&gt;)  ![&lt;span class=&#34;nt&#34;&gt;Photo by Hudai Gayiran on Unsplash&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span&gt;)
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;</description>
+</description>
         </item>
         
     </channel>
