@@ -40,7 +40,7 @@
 &lt;li&gt;
 &lt;p&gt;手撕代码：
 第一题：Leetcode 3. 无重复字符的最长子串&lt;/p&gt;
-&lt;p&gt;第二题：给定n和list，求有list元素组成的不超过n的最大数字（我用了回溯）&lt;/p&gt;
+&lt;p&gt;第二题：给定n和list，求由list元素组成的不超过n的最大数字（我用了回溯）&lt;/p&gt;
 &lt;p&gt;第三题：Leetcode 165. 比较版本号&lt;/p&gt;
 &lt;p&gt;第四题：剑指 Offer 26. 树的子结构&lt;/p&gt;
 &lt;/li&gt;
